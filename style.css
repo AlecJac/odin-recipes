@@ -9,7 +9,43 @@ h1 {
     font-family: cursive;
     font-size: 60px;
     text-align: center;
+    margin: 0 auto;
 } 
+
+.content-welcome {
+    margin: 3px; 
+    font-size: 17px; 
+    font-weight: 600px; 
+}
+
+.recipe-container {
+    background-color: rgb(118, 17, 227);
+    padding: 10px 20px;
+    margin: 30px; 
+    list-style-type: none;
+    text-align: center; 
+    font-family: cursive; 
+    border-radius: 0.2em;
+
+}
+
+
+.recipe-container li {
+    padding: 5px; 
+    margin: 5px; 
+}
+
+.container-Lasagna {
+    background-color: rgb(249, 8, 241);
+}
+
+.container-CrispyFriedChicken {
+    background-color: yellow;
+}
+.container-BabyBackRibs {
+    background-color: orange;
+}
+
 
 
 
